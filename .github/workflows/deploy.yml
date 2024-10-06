@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/Portfolio/'
+          BASE_PATH: '/marron15.github.io/'
         run: |
           npm run build
 
