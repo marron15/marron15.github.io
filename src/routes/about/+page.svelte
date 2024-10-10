@@ -27,18 +27,18 @@
         
         <section class="background">
           <h2>My Background</h2>
-          <p>As an I.T Student, I've been honing my skills in various programming languages. My journey in the world of coding has been both challenging and exciting, pushing me to constantly learn and grow.</p>
+          <p>As an I.T Student from Gordon College since 2022, I've been honing my skills in various programming languages. My journey in the world of coding has been both challenging and competitive to the other department and Blocks/Section, it pushing me to constantly learn and grow to be more diciplined in this environment that i stepped in.</p>
         </section>
         
         <section class="skills">
-          <h2>Skills & Expertise</h2>
+          <h2>Skills</h2>
           <div class="skill-tags">
             <span>HTML5 & CSS3</span>
             <span>JavaScript</span>
             <span>Angular</span>
             <span>PHP</span>
-          
-            <span>Problem Solving</span>
+            
+            
           </div>
         </section>
       </div>
