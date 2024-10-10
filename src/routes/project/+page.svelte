@@ -20,17 +20,17 @@
     <h1>My Projects</h1>
     <section class="project-list">
         <article class="project-item">
-            <img src="../src/assets/GCACO.png" alt="gcaco" class="project-image">
+            <img src="/GCACO.png" alt="gcaco" class="project-image">
             <h2>Project 1: Gordon College Alumni Connect</h2>
             <p>GCACO push notification.</p>
         </article>
         <article class="project-item">
-            <img src="../src/assets/Library.png" alt="library" class="project-image">
+            <img src="/Library.png" alt="library" class="project-image">
             <h2>Project 2: Library Management System</h2>
             <p>Library Management System using Java Netbeans.</p>
         </article>
         <article class="project-item">
-            <img src="../src/assets/weather.png" alt="Weather App" class="project-image">
+            <img src="/weather.png" alt="Weather App" class="project-image">
             <h2>Project 3: Weather Application</h2>
             <p>A responsive weather dashboard that provides real-time weather information and forecasts using a third-party API.</p>
         </article>
